@@ -4,7 +4,7 @@ https://www.linkedin.com/in/mozahedul27/ <br/>
 https://github.com/Mozahedul
 
 **Summary:** <br/>
-<span style=" color: #0969DA;">Experienced</span> MERN Stack Developer with a strong foundation in building dynamic and responsive web applications. Proficient in front-end and back-end technologies, with a focus on creating seamless user experiences. Adept at collaborating with cross-functional teams and delivering high-quality code within project timelines.
+<span color: "#0969DA">Experienced</span> MERN Stack Developer with a strong foundation in building dynamic and responsive web applications. Proficient in front-end and back-end technologies, with a focus on creating seamless user experiences. Adept at collaborating with cross-functional teams and delivering high-quality code within project timelines.
 
 **Skills:**
 - Front-End: HTML5, CSS3, Tailwind CSS, Material UI, React Bootstrap, React, Redux, JavaScript
