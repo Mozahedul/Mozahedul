@@ -37,7 +37,9 @@ Bachelor's Degree in Computer Science - MIU - 2014
 - eCommerce - fully functional eCommerce website <br/>
   Technologies Used: React, Node.js, Express.js, MongoDB <br/>
   GitHub Repository: https://github.com/Mozahedul/ecommerce-full <br/>
-
+- eCommerce React project - Completely responsive eCommerce website <br/>
+  Technologies Used: React, Tailwind CSS <br/>
+  GitHub Repository: https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite <br/>
 Certifications:
 - [Certification Name] - [Issuing Organization] - [Year of Completion]
 
