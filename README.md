@@ -1,6 +1,7 @@
 **Md Mozahedul Islam** <br/>
 Contact Information: +8801738648749, mozahed001@gmail.com <br/>
 <a href="https://mozahedulislam.blogspot.com/">Portfolio Website</a> <br/>
+<a href="https://procodelearn.blogspot.com/">Programming Blog</a>
 <a href="https://www.linkedin.com/in/mozahedul27/">Linkedin Profile</a>
 
 **Summary:** <br/>
