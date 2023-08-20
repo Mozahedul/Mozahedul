@@ -3,7 +3,7 @@ Contact Information: +8801738648749, mozahed001@gmail.com <br/>
 https://www.linkedin.com/in/mozahedul27/ <br/>
 https://github.com/Mozahedul
 
-<span style="color: blue">**Summary:**</span> <br/>
+<span style="color: #0969DA">**Summary:**</span> <br/>
 Experienced MERN Stack Developer with a strong foundation in building dynamic and responsive web applications. Proficient in front-end and back-end technologies, with a focus on creating seamless user experiences. Adept at collaborating with cross-functional teams and delivering high-quality code within project timelines.
 
 **Skills:**
