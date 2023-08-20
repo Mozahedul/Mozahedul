@@ -16,7 +16,7 @@ Experienced MERN Stack Developer with a strong foundation in building dynamic an
 - Testing: Jest
 - Problem-Solving: Debugging, troubleshooting
 
-**Experience:**
+**Experience:** <br/>
 Ultimate Technology - Dhaka, Bangladesh <br/>
 MERN Stack Developer - October 2017 to 2021 <br/>
 - Developed and maintained web applications using the MERN stack, ensuring responsive and user-friendly interfaces.
