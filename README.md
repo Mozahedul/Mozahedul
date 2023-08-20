@@ -34,18 +34,15 @@ Bachelor's Degree in Computer Science - MIU - 2014
 - eCommerce website - Payment gateway, authentication, authorization, all features of an e-commerce website. <br/>
   Technologies Used: MERN stack, Next.js, and RESTful API integration <br/>
   GitHub Repository: https://github.com/Mozahedul/ecommerce-nextjs <br/>
-- [Project Name] - [Description] <br/>
+- eCommerce - fully functional eCommerce website <br/>
   Technologies Used: React, Node.js, Express.js, MongoDB <br/>
-  GitHub Repository: [Link to GitHub Repo] <br/>
+  GitHub Repository: https://github.com/Mozahedul/ecommerce-full <br/>
 
 Certifications:
 - [Certification Name] - [Issuing Organization] - [Year of Completion]
 
 Languages:
 - English (Fluent)
-
-References:
-Available upon request.
 
 
 <!---
