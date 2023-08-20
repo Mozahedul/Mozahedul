@@ -7,8 +7,9 @@ https://github.com/Mozahedul
 Experienced MERN Stack Developer with a strong foundation in building dynamic and responsive web applications. Proficient in front-end and back-end technologies, with a focus on creating seamless user experiences. Adept at collaborating with cross-functional teams and delivering high-quality code within project timelines.
 
 **Skills:**
-- Front-End: React, Redux, HTML5, CSS3, JavaScript
+- Front-End: HTML5, CSS3, Tailwind CSS, Material UI, React Bootstrap, React, Redux, JavaScript
 - Back-End: Node.js, Express.js, MongoDB, RESTful APIs
+- Database: MongoDB, MySQL
 - Full-Stack Development: Creating end-to-end web applications
 - UI/UX Design: Responsive design, user-centered interfaces
 - Version Control: Git, GitHub
