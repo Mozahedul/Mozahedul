@@ -24,16 +24,15 @@ MERN Stack Developer - October 2017 to 2021
 - Designed and implemented RESTful APIs for efficient data communication between the front-end and back-end.
 - Utilized Redux for state management, improving application performance and maintainability.
 - Integrated third-party libraries and APIs to extend application functionality and enhance user interactions.
-- Conducted unit testing using Jest and Enzyme, resulting in reduced bugs and improved code quality.
-- Worked within an Agile development environment, participating in daily stand-ups and sprint planning meetings.
+- Conducted unit testing using Jest resulting in reduced bugs and improved code quality.
 
 Education:
 Bachelor's Degree in Computer Science - MIU - 2014
 
-Projects:
-- [Project Name] - [Description]
-  Technologies Used: MERN stack, Redux, RESTful API integration
-  GitHub Repository: [Link to GitHub Repo]
+**Projects:**
+- eCommerce website - Payment gateway, authentication, authorization, all features of an e-commerce website.
+  Technologies Used: MERN stack, Next.js, and RESTful API integration
+  GitHub Repository: https://github.com/Mozahedul/ecommerce-nextjs
 - [Project Name] - [Description]
   Technologies Used: React, Node.js, Express.js, MongoDB
   GitHub Repository: [Link to GitHub Repo]
