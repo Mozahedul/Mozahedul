@@ -43,6 +43,7 @@ Bachelor's Degree in Computer Science - MIU - 2014
   GitHub Repository: https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite <br/>
 - Tech Company Website - 100% responsive website <br/>
   Languages Used: HTML5, CSS33, JavaScript <br/>
+  GitHub Repository: https://github.com/Mozahedul/tech-company <br/>
   Website Link: https://mozahedul.netlify.app/<br/>
   
 Certifications:
