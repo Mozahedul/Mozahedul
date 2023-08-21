@@ -23,7 +23,7 @@ Ultimate Technology - Dhaka, Bangladesh <br/>
 MERN Stack Developer - October 2017 to 2021 <br/>
 - Developed and maintained web applications using the MERN stack, ensuring responsive and user-friendly interfaces.
 - Collaborated with UI/UX designers to implement visually appealing designs and optimize user experience.
-- Designed and implemented RESTful APIs for efficient data communication between the frontend and backend.
+- Designed and implemented RESTful APIs for efficient data communication between the front-end and back-end.
 - Utilized Redux for state management, improving application performance and maintainability.
 - Integrated third-party libraries and APIs to extend application functionality and enhance user interactions.
 - Conducted unit testing using Jest resulting in reduced bugs and improved code quality.
@@ -41,6 +41,10 @@ Bachelor's Degree in Computer Science - MIU - 2014
 - eCommerce React project - Completely responsive eCommerce website <br/>
   Technologies Used: React, Tailwind CSS <br/>
   GitHub Repository: https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite <br/>
+- Tech Company Website - 100% responsive technology website <br/>
+  Languages Used: HTML5, CSS33, JavaScript <br/>
+  Website Link: https://mozahedul.netlify.app/<br/>
+  
 Certifications:
 - [Certification Name] - [Issuing Organization] - [Year of Completion]
 
