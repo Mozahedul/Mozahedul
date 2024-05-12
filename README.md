@@ -14,7 +14,7 @@ Experienced MERN Stack Developer with a strong foundation in building dynamic an
 - Full-Stack Development: Creating end-to-end web applications
 - UI/UX Design: Responsive design, user-centered interfaces
 - Version Control: Git, GitHub
-- Deployment: Heroku, Netlify
+- Deployment: Heroku, Netlify, and Vercel
 - Testing: Jest
 - Problem-Solving: Debugging, troubleshooting
 
