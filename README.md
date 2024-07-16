@@ -1,11 +1,11 @@
 **Md Mozahedul Islam** <br/>
 Contact Information: +8801738648749, mozahed001@gmail.com <br/>
-<a href="https://portfolio-mozahedul.vercel.app/">Portfolio Website</a> <br/>
-<a href="https://procodelearn.blogspot.com/">Programming Blog</a> <br/>
-<a href="https://www.linkedin.com/in/mozahedul27/">Linkedin Profile</a>
+## <a href="https://portfolio-mozahedul.vercel.app/" target="_blank">Portfolio Website</a>## <br/>
+<a href="https://procodelearn.blogspot.com/" target="_blank">Programming Blog</a> <br/>
+<a href="https://www.linkedin.com/in/mozahedul27/" target="_blank">Linkedin Profile</a>
 
 **Summary:** <br/>
-Experienced MERN Stack Developer with a strong foundation in building dynamic and responsive web applications. Proficient in front-end and back-end technologies, with a focus on creating seamless user experiences. Adept at collaborating with cross-functional teams and delivering high-quality code within project timelines.
+An experienced MERN Stack Developer with a strong foundation in building dynamic and responsive web applications. Proficient in front-end and back-end technologies, focus on creating seamless user experiences. Adept at collaborating with cross-functional teams and delivering high-quality code within project timelines.
 
 **Skills:**
 - Front-End: HTML5, CSS3, Tailwind CSS, Material UI, React Bootstrap, React, Redux, JavaScript
@@ -28,13 +28,10 @@ MERN Stack Developer - October 2017 to 2021 <br/>
 - Integrated third-party libraries and APIs to extend application functionality and enhance user interactions.
 - Conducted unit testing using Jest resulting in reduced bugs and improved code quality.
 
-**Education:**
-Bachelor's Degree in Computer Science - MIU - 2014
-
 **Projects:**
 - eCommerce website - Payment gateway, authentication, authorization, all features of an e-commerce website. <br/>
   Technologies Used: MERN stack, Next.js, and RESTful API integration <br/>
-  GitHub Repository: <a href="https://github.com/Mozahedul/eshop">Visit GitHub Repo</a><br/>
+  GitHub Repository: <a href="https://github.com/Mozahedul/eshop" target="_blank">Visit GitHub Repo</a><br/>
   Live Website Link: <a href="https://eshop-tawny-seven.vercel.app/" target="_blank">E-commerce-nextjs</a> <br/>
 - eCommerce - fully functional eCommerce website <br/>
   Technologies Used: React, Node.js, Express.js, MongoDB <br/>
