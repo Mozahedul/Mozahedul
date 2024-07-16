@@ -29,10 +29,10 @@ MERN Stack Developer - October 2017 to 2021 <br/>
 - Conducted unit testing using Jest resulting in reduced bugs and improved code quality.
 
 **Projects:**
-- Todo list app - A complete todo list app
-  Technologies Used: React, Tailwind CSS, Vite.
-  <a href="https://github.com/Mozahedul/to-do-app-frontendmentor">Visit GitHub Repo</a>
-  <a href="https://to-do-app-frontendmentor.vercel.app/">Visit Live Website</a>
+- Todo list app - A complete todo list app <br/>
+  Technologies Used: React, Tailwind CSS, Vite.<br/>
+  <a href="https://github.com/Mozahedul/to-do-app-frontendmentor">Visit GitHub Repo</a><br/>
+  <a href="https://to-do-app-frontendmentor.vercel.app/">Visit Live Website</a><br/>
 - eCommerce website - Payment gateway, authentication, authorization, all features of an e-commerce website. <br/>
   Technologies Used: MERN stack, Next.js, and RESTful API integration <br/>
   <a href="https://github.com/Mozahedul/eshop">Visit GitHub Repo</a><br/>
