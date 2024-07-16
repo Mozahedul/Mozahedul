@@ -1,6 +1,6 @@
 **Md Mozahedul Islam** <br/>
 Contact Information: +8801738648749, mozahed001@gmail.com <br/>
-## <a href="https://portfolio-mozahedul.vercel.app/" target="_blank">Portfolio Website</a>## <br/>
+<a href="https://portfolio-mozahedul.vercel.app/" target="_blank">Portfolio Website</a> <br/>
 <a href="https://procodelearn.blogspot.com/" target="_blank">Programming Blog</a> <br/>
 <a href="https://www.linkedin.com/in/mozahedul27/" target="_blank">Linkedin Profile</a>
 
@@ -31,11 +31,12 @@ MERN Stack Developer - October 2017 to 2021 <br/>
 **Projects:**
 - eCommerce website - Payment gateway, authentication, authorization, all features of an e-commerce website. <br/>
   Technologies Used: MERN stack, Next.js, and RESTful API integration <br/>
-  GitHub Repository: <a href="https://github.com/Mozahedul/eshop" target="_blank">Visit GitHub Repo</a><br/>
-  Live Website Link: <a href="https://eshop-tawny-seven.vercel.app/" target="_blank">E-commerce-nextjs</a> <br/>
-- eCommerce - fully functional eCommerce website <br/>
-  Technologies Used: React, Node.js, Express.js, MongoDB <br/>
-  GitHub Repository: https://github.com/Mozahedul/ecommerce-full <br/>
+  <a href="https://github.com/Mozahedul/eshop" target="_blank">Visit GitHub Repo</a><br/>
+  <a href="https://eshop-tawny-seven.vercel.app/" target="_blank">Visit Live Website</a> <br/>
+- Hospital Management System - fully responsive front-end website <br/>
+  Technologies Used: HTML, CSS, JavaScript <br/>
+  <a target="_blank" href="https://github.com/Mozahedul/hospital-website">Visit GitHub Repo</a><br/>
+  <a target="_blank" href="https://mozahedul.github.io/hospital-website/">Live Website</a><br/>
 - eCommerce React project - Completely responsive eCommerce website <br/>
   Technologies Used: React, Tailwind CSS <br/>
   GitHub Repository: https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite <br/>
