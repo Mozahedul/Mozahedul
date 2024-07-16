@@ -29,7 +29,7 @@ MERN Stack Developer - October 2017 to 2021 <br/>
 - Conducted unit testing using Jest resulting in reduced bugs and improved code quality.
 
 **Projects:**
-- <span style="color: 'red'">Todo list app - A complete todo list app</span> <br/>
+- Todo list app - A complete todo list app</span> <br/>
   Technologies Used: React, Tailwind CSS, Vite.<br/>
   <a href="https://github.com/Mozahedul/to-do-app-frontendmentor">Visit GitHub Repo</a><br/>
   <a href="https://to-do-app-frontendmentor.vercel.app/">Visit Live Website</a><br/>
@@ -49,6 +49,14 @@ MERN Stack Developer - October 2017 to 2021 <br/>
   Languages Used: HTML5, CSS33, JavaScript <br/>
   <a href="https://github.com/Mozahedul/tech-company">Visite GitHub Repo</a> <br/>
   <a href="https://mozahedul.netlify.app/">Visit Live Website</a><br/>
+- Age Calculator - Calculate your age by inserting your birth date
+  Languages Used: HTML5, CSS33, JavaScript <br/>
+  <a href="https://github.com/Mozahedul/age-calculator">Visite GitHub Repo</a> <br/>
+  <a href="https://mozahedul.github.io/age-calculator/">Visit Live Website</a><br/>
+- Backend Exrpess CRUD app
+  Languages Used: NodeJS, ExpressJS, Bootstrap <br/>
+  <a href="https://github.com/Mozahedul/express-crud-app">Visite GitHub Repo</a> <br/>
+  <a href="https://express-crud-app-three.vercel.app/">Visit Live Website</a><br/>
   
 Certifications:
 - [Certification Name] - [Issuing Organization] - [Year of Completion]
