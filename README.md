@@ -36,14 +36,15 @@ MERN Stack Developer - October 2017 to 2021 <br/>
 - Hospital Management System - fully responsive front-end website <br/>
   Technologies Used: HTML, CSS, JavaScript <br/>
   <a target="_blank" href="https://github.com/Mozahedul/hospital-website">Visit GitHub Repo</a><br/>
-  <a target="_blank" href="https://mozahedul.github.io/hospital-website/">Live Website</a><br/>
-- eCommerce React project - Completely responsive eCommerce website <br/>
-  Technologies Used: React, Tailwind CSS <br/>
-  GitHub Repository: https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite <br/>
+  <a target="_blank" href="https://mozahedul.github.io/hospital-website/">Visit Live Website</a><br/>
+- React CRUD Application - Completely responsive React website <br/>
+  Technologies Used: React, Bootstrap <br/>
+  <a href="https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite">Visit GitHub Repo</a> <br/>
+  <a href="https://react-crud-mozahedul.netlify.app/">Visit Live Website</a>
 - Tech Company Website - 100% responsive website <br/>
   Languages Used: HTML5, CSS33, JavaScript <br/>
-  GitHub Repository: https://github.com/Mozahedul/tech-company <br/>
-  Website Link: https://mozahedul.netlify.app/<br/>
+  <a href="https://github.com/Mozahedul/tech-company">Visite GitHub Repo</a> <br/>
+  <a href="https://mozahedul.netlify.app/">Visit Live Website</a><br/>
   
 Certifications:
 - [Certification Name] - [Issuing Organization] - [Year of Completion]
