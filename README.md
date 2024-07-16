@@ -57,6 +57,10 @@ MERN Stack Developer - October 2017 to 2021 <br/>
   Languages Used: NodeJS, ExpressJS, Bootstrap <br/>
   <a href="https://github.com/Mozahedul/express-crud-app">Visite GitHub Repo</a> <br/>
   <a href="https://express-crud-app-three.vercel.app/">Visit Live Website</a><br/>
+- HTML Email Templates <br/>
+  Languages Used: NodeJS, ExpressJS, Bootstrap <br/>
+  <a href="https://github.com/Mozahedul/express-crud-app">Visite GitHub Repos</a>  
+  <a href="https://portfolio-mozahedul.vercel.app/pages/archive">Visit Live Website</a><br/>
   
 Certifications:
 - [Certification Name] - [Issuing Organization] - [Year of Completion]
