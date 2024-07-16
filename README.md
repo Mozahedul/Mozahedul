@@ -49,11 +49,11 @@ MERN Stack Developer - October 2017 to 2021 <br/>
   Languages Used: HTML5, CSS33, JavaScript <br/>
   <a href="https://github.com/Mozahedul/tech-company">Visite GitHub Repo</a> <br/>
   <a href="https://mozahedul.netlify.app/">Visit Live Website</a><br/>
-- Age Calculator - Calculate your age by inserting your birth date
+- Age Calculator - Calculate your age by inserting your birth date <br/>
   Languages Used: HTML5, CSS33, JavaScript <br/>
   <a href="https://github.com/Mozahedul/age-calculator">Visite GitHub Repo</a> <br/>
   <a href="https://mozahedul.github.io/age-calculator/">Visit Live Website</a><br/>
-- Backend Exrpess CRUD app
+- Backend Exrpess CRUD app <br/>
   Languages Used: NodeJS, ExpressJS, Bootstrap <br/>
   <a href="https://github.com/Mozahedul/express-crud-app">Visite GitHub Repo</a> <br/>
   <a href="https://express-crud-app-three.vercel.app/">Visit Live Website</a><br/>
