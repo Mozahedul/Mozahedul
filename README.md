@@ -1,4 +1,4 @@
-# Md Mozahedul Islam
+# Hi there, I'm Mozahedul 👋
 **Contact Information:** 
 <a href="tel:+8801738648749">Call Us at +880 (173) 8648-749</a>, 
 <a href="mailto:mozahed001@gmail.com" target="_blank">Email Me</a><br/>
@@ -8,8 +8,33 @@
 <a href="https://procodelearn.blogspot.com/" target="_blank">Programming Blog</a><br>
 <a href="https://www.linkedin.com/in/mozahedul27/" target="_blank">Linkedin Profile</a><br>
 
-## Summary:
-A highly skilled MERN Stack Developer with a proven track record in building dynamic and responsive web applications. My expertise spans both front-end and back-end technologies, allowing me to create engaging user experiences. I thrive in collaborative environments, consistently delivering top-notch code on time while meeting project milestones.
+## 🚀 About Me
+I’m committed to delivering outstanding web solutions for various industries, from startups to established businesses. With a strong foundation in both front-end and back-end technologies, I love transforming ideas into intuitive, engaging, and effective digital experiences.
+- 🔭 I’m working on my portfolio and client projects with my development team.
+- 🌱 I’m continuously expanding my expertise in web development, especially with the MERN stack and modern web design frameworks.
+- 👯 I’m open to collaborating on innovative, impactful projects that make a difference.
+
+## 🛠 Tech Stack
+
+**Languages**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=333) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff) ![Redux](https://img.shields.io/badge/-Redux-000000?logo=redux&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff) ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?logo=chakra-ui&logoColor=fff) ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=material-ui&logoColor=fff)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
+
+**Version Control & Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
+
+**Deployment**  
+![Git](https://img.shields.io/badge/-Vercel-F05032?logo=vercel&logoColor=fff) ![Netlify](https://img.shields.io/badge/-Netlify-4479A1?logo=netlify&logoColor=fff) ![Heroku](https://img.shields.io/badge/-Heroku-47A248?logo=heroku&logoColor=fff)
+
+
 
 ### Skills:
 - Front-End: HTML5, CSS3, Tailwind CSS, Material UI, React Bootstrap, React, Redux, JavaScript
@@ -32,7 +57,7 @@ A highly skilled MERN Stack Developer with a proven track record in building dyn
 - Integrated third-party libraries and APIs to extend application functionality and enhance user interactions.
 - Conducted unit testing using Jest, reducing bugs and improving code quality.
 
-### Projects
+## 🌐 Projects
 - **Todo list app** - A complete todo list app
   Technologies Used: React, Tailwind CSS, Vite.<br>
     <a href="https://github.com/Mozahedul/to-do-app-frontendmentor" target="_blank">Visit GitHub</a><br>
@@ -72,6 +97,27 @@ A highly skilled MERN Stack Developer with a proven track record in building dyn
   Languages Used: NodeJS, ExpressJS, Bootstrap <br>
     <a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a><br>
     <a href="https://portfolio-mozahedul.vercel.app/pages/archive" target="_blank">Visit Live Website</a><br>
+
+## 📈 GitHub Stats
+![Mozahedul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mozahedul&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozahedul&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+I’m always open to new opportunities and collaborations. Feel free to reach out!
+
+- **LinkedIn**: [linkedin.com/in/mozahedul](https://www.linkedin.com/in/mozahedul/)
+- **Fiverr**: [fiverr.com/Mozahedpro](https://www.fiverr.com/mozahedpro)
+- **Email**: [mozahedul@example.com](mailto:mozahedul@example.com)
+
+---
+
+## 💡 Fun Fact
+When not coding, I enjoy exploring new design trends, working on freelance projects with my team, and staying up-to-date with the latest tech. I'm passionate about creating intuitive, enjoyable user experiences that make a lasting impact!
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to connect or reach out if you’re interested in working together or discussing anything tech-related. Let’s create something amazing together! 🌟
+
   
 Certifications:
 - [Certification Name] - [Issuing Organization] - [Year of Completion]
