@@ -1,11 +1,11 @@
 # Md Mozahedul Islam
-Contact Information: <a href="tel:+8801738648749" target="_blank">Call Us at +8801738648749</a>, <a href="mailto:mozahed001@gmail.com" target="_blank">Email Me</a><br/>
+Contact Information: <a href="tel:+1234567890">Call Us at +880 (173) 8648-749</a>, <a href="mailto:mozahed001@gmail.com" target="_blank">Email Me</a><br/>
 <a href="https://portfolio-mozahedul.vercel.app/" target="_blank">Portfolio Website</a><br>
 <a href="https://procodelearn.blogspot.com/" target="_blank">Programming Blog</a><br>
 <a href="https://www.linkedin.com/in/mozahedul27/" target="_blank">Linkedin Profile</a><br>
 
 ## Summary:
-A highly skilled MERN Stack Developer with a proven track record in building dynamic and responsive web applications. My expertise spans front-end and back-end technologies, allowing me to create engaging user experiences. I thrive in collaborative environments, consistently delivering top-notch code on time while meeting project milestones.
+A highly skilled MERN Stack Developer with a proven track record in building dynamic and responsive web applications. My expertise spans both front-end and back-end technologies, allowing me to create engaging user experiences. I thrive in collaborative environments, consistently delivering top-notch code on time while meeting project milestones.
 
 ### Skills:
 - Front-End: HTML5, CSS3, Tailwind CSS, Material UI, React Bootstrap, React, Redux, JavaScript
