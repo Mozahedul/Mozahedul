@@ -29,16 +29,8 @@ I’m committed to delivering outstanding web solutions for various industries, 
 **Deployment**  
 ![Git](https://img.shields.io/badge/-Vercel-F05032?logo=vercel&logoColor=fff) ![Netlify](https://img.shields.io/badge/-Netlify-4479A1?logo=netlify&logoColor=fff) ![Heroku](https://img.shields.io/badge/-Heroku-47A248?logo=heroku&logoColor=fff)
 
-### 🌟 Skills:
-- Front-End: HTML5, CSS3, Tailwind CSS, Material UI, React Bootstrap, React, Redux, JavaScript
-- Back-End: Node.js, Express.js, MongoDB, RESTful APIs
-- Database: MongoDB, MySQL
-- Full-Stack Development: Creating end-to-end web applications
-- UI/UX Design: Responsive design, user-centered interfaces
-- Version Control: Git, GitHub
-- Deployment: Heroku, Netlify, and Vercel
-- Testing: Jest
-- Problem-Solving: Debugging, troubleshooting
+**Test**  
+![Jest](https://img.shields.io/badge/-Jest-F05032?logo=jest&logoColor=fff)
 
 ### 🌟 Experience
 **Ultimate Technology - Dhaka, Bangladesh**
@@ -63,33 +55,33 @@ I’m committed to delivering outstanding web solutions for various industries, 
 
 - **Hospital Management System** - fully responsive front-end website
   Technologies Used: HTML, CSS, JavaScript <br>
-    <a href="https://github.com/Mozahedul/hospital-website" target="_blank">Visit GitHub Repo</a><br>
-    <a href="https://mozahedul.github.io/hospital-website/" target="_blank">Visit Live Website</a><br>
+    🦯<a href="https://github.com/Mozahedul/hospital-website" target="_blank">Visit GitHub Repo</a>
+    🦯<a href="https://mozahedul.github.io/hospital-website/" target="_blank">Visit Live Website</a><br>
 
 - **React CRUD Application** - Completely responsive React website
   Technologies Used: React, Bootstrap <br>
-    <a href="https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite" target="_blank">Visit GitHub Repo</a><br>
-    <a href="https://react-crud-mozahedul.netlify.app/" target="_blank">Visit Live Website</a><br>
+    🦯<a href="https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite" target="_blank">Visit GitHub Repo</a>
+    🦯<a href="https://react-crud-mozahedul.netlify.app/" target="_blank">Visit Live Website</a><br>
 
 - **Tech Company Website** - 100% responsive website
   Technologies Used: HTML5, CSS33, JavaScript <br>
-    <a href="https://github.com/Mozahedul/tech-company" target="_blank">Visit GitHub Repo</a><br>
-    <a href="https://mozahedul.netlify.app/" target="_blank">Visit Live Website</a><br>
+    🦯<a href="https://github.com/Mozahedul/tech-company" target="_blank">Visit GitHub Repo</a>
+    🦯<a href="https://mozahedul.netlify.app/" target="_blank">Visit Live Website</a><br>
 
 - **Age Calculator** - Calculate your age by inserting your birth date
   Technologies Used: HTML5, CSS33, JavaScript <br>
-    <a href="https://github.com/Mozahedul/age-calculator" target="_blank">Visit GitHub Repo</a><br>
-    <a href="https://mozahedul.github.io/age-calculator/" target="_blank">Visit Live Website</a><br>
+    🦯<a href="https://github.com/Mozahedul/age-calculator" target="_blank">Visit GitHub Repo</a>
+    🦯<a href="https://mozahedul.github.io/age-calculator/" target="_blank">Visit Live Website</a><br>
 
 - **Backend Express CRUD app**
   Technologies Used: NodeJS, ExpressJS, Bootstrap <br>
-    <a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a><br>
-    <a href="https://express-crud-app-three.vercel.app/" target="_blank">Visit Live Website</a><br>
+    🦯<a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a>
+    🦯<a href="https://express-crud-app-three.vercel.app/" target="_blank">Visit Live Website</a><br>
 
 - **HTML Email Templates**
   Languages Used: NodeJS, ExpressJS, Bootstrap <br>
-    <a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a><br>
-    <a href="https://portfolio-mozahedul.vercel.app/pages/archive" target="_blank">Visit Live Website</a><br>
+    🦯<a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a>
+    🦯<a href="https://portfolio-mozahedul.vercel.app/pages/archive" target="_blank">Visit Live Website</a><br>
 
 ## 📫 Connect with Me
 I’m always open to new opportunities and collaborations. Feel free to reach out!
