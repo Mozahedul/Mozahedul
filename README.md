@@ -1,13 +1,13 @@
-## Md Mozahedul Islam <br/>
+# Md Mozahedul Islam
 Contact Information: +8801738648749, mozahed001@gmail.com <br/>
-<a target="_blank" href="https://portfolio-mozahedul.vercel.app/">Portfolio Website</a> <br/>
-<a href="https://procodelearn.blogspot.com/" target="_blank">Programming Blog</a> <br/>
-<a href="https://www.linkedin.com/in/mozahedul27/" target="_blank">Linkedin Profile</a>
+[Portfolio Website](https://portfolio-mozahedul.vercel.app/)
+[Programming Blog](https://procodelearn.blogspot.com/)
+[Linkedin Profile](https://www.linkedin.com/in/mozahedul27/)
 
-**Summary:** <br/>
-An experienced MERN Stack Developer with a strong foundation in building dynamic and responsive web applications. Proficient in front-end and back-end technologies, focus on creating seamless user experiences. Adept at collaborating with cross-functional teams and delivering high-quality code within project timelines.
+## Summary:
+A highly skilled MERN Stack Developer with a proven track record in building dynamic and responsive web applications. My expertise spans both front-end and back-end technologies, allowing me to create engaging user experiences. I thrive in collaborative environments, consistently delivering top-notch code on time while meeting project milestones.
 
-**Skills:**
+### Skills:
 - Front-End: HTML5, CSS3, Tailwind CSS, Material UI, React Bootstrap, React, Redux, JavaScript
 - Back-End: Node.js, Express.js, MongoDB, RESTful APIs
 - Database: MongoDB, MySQL
@@ -18,49 +18,55 @@ An experienced MERN Stack Developer with a strong foundation in building dynamic
 - Testing: Jest
 - Problem-Solving: Debugging, troubleshooting
 
-**Experience:** <br/>
-Ultimate Technology - Dhaka, Bangladesh <br/>
-MERN Stack Developer - October 2017 to 2021 <br/>
+### Experience
+**Ultimate Technology - Dhaka, Bangladesh**
+**MERN Stack Developer - October 2017 to 2021**
 - Developed and maintained web applications using the MERN stack, ensuring responsive and user-friendly interfaces.
 - Collaborated with UI/UX designers to implement visually appealing designs and optimize user experience.
-- Designed and implemented RESTful APIs for efficient data communication between the front-end and back-end.
+- Designed and implemented RESTful APIs for efficient data communication between the front and back end.
 - Utilized Redux for state management, improving application performance and maintainability.
 - Integrated third-party libraries and APIs to extend application functionality and enhance user interactions.
-- Conducted unit testing using Jest resulting in reduced bugs and improved code quality.
+- Conducted unit testing using Jest, reducing bugs and improving code quality.
 
-**Projects:**
-- Todo list app - A complete todo list app</span> <br/>
-  Technologies Used: React, Tailwind CSS, Vite.<br/>
-  <a href="https://github.com/Mozahedul/to-do-app-frontendmentor">Visit GitHub Repo</a><br/>
-  <a href="https://to-do-app-frontendmentor.vercel.app/">Visit Live Website</a><br/>
-- eCommerce website - Payment gateway, authentication, authorization, all features of an e-commerce website. <br/>
+### Projects
+- **Todo list app** - A complete todo list app
+  Technologies Used: React, Tailwind CSS, Vite.
+    [Visit GitHub](https://github.com/Mozahedul/to-do-app-frontendmentor)
+    [Visit Live Website](https://to-do-app-frontendmentor.vercel.app/)
+- **eCommerce website** - Payment gateway, authentication, authorization, all features of an e-commerce website.
   Technologies Used: MERN stack, Next.js, and RESTful API integration <br/>
-  <a href="https://github.com/Mozahedul/eshop">Visit GitHub Repo</a><br/>
-  <a href="https://eshop-tawny-seven.vercel.app/">Visit Live Website</a> <br/>
-- Hospital Management System - fully responsive front-end website <br/>
-  Technologies Used: HTML, CSS, JavaScript <br/>
-  <a target="_blank" href="https://github.com/Mozahedul/hospital-website">Visit GitHub Repo</a><br/>
-  <a target="_blank" href="https://mozahedul.github.io/hospital-website/">Visit Live Website</a><br/>
-- React CRUD Application - Completely responsive React website <br/>
-  Technologies Used: React, Bootstrap <br/>
-  <a href="https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite">Visit GitHub Repo</a> <br/>
-  <a href="https://react-crud-mozahedul.netlify.app/">Visit Live Website</a>
-- Tech Company Website - 100% responsive website <br/>
-  Languages Used: HTML5, CSS33, JavaScript <br/>
-  <a href="https://github.com/Mozahedul/tech-company">Visite GitHub Repo</a> <br/>
-  <a href="https://mozahedul.netlify.app/">Visit Live Website</a><br/>
-- Age Calculator - Calculate your age by inserting your birth date <br/>
-  Languages Used: HTML5, CSS33, JavaScript <br/>
-  <a href="https://github.com/Mozahedul/age-calculator">Visite GitHub Repo</a> <br/>
-  <a href="https://mozahedul.github.io/age-calculator/">Visit Live Website</a><br/>
-- Backend Exrpess CRUD app <br/>
-  Languages Used: NodeJS, ExpressJS, Bootstrap <br/>
-  <a href="https://github.com/Mozahedul/express-crud-app">Visite GitHub Repo</a> <br/>
-  <a href="https://express-crud-app-three.vercel.app/">Visit Live Website</a><br/>
-- HTML Email Templates <br/>
-  Languages Used: NodeJS, ExpressJS, Bootstrap <br/>
-  <a href="https://github.com/Mozahedul/express-crud-app">Visite GitHub Repos</a>  
-  <a href="https://portfolio-mozahedul.vercel.app/pages/archive">Visit Live Website</a><br/>
+    [Visit GitHub Repo](https://github.com/Mozahedul/eshop)
+    [Visit Live Website](https://eshop-tawny-seven.vercel.app/)
+
+- **Hospital Management System** - fully responsive front-end website
+  Technologies Used: HTML, CSS, JavaScript 
+    [Visit GitHub Repo](https://github.com/Mozahedul/hospital-website)
+    [Visit Live Website](https://mozahedul.github.io/hospital-website/)
+
+- **React CRUD Application** - Completely responsive React website
+  Technologies Used: React, Bootstrap
+    [Visit GitHub Repo](https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite)
+    [Visit Live Website](https://react-crud-mozahedul.netlify.app/)
+
+- **Tech Company Website** - 100% responsive website
+  Technologies Used: HTML5, CSS33, JavaScript
+    [Visite GitHub Repo](https://github.com/Mozahedul/tech-company)
+    [Visit Live Website](https://mozahedul.netlify.app/)
+
+- **Age Calculator** - Calculate your age by inserting your birth date
+  Technologies Used: HTML5, CSS33, JavaScript
+    [Visite GitHub Repo](https://github.com/Mozahedul/age-calculator)
+    [Visit Live Website](https://mozahedul.github.io/age-calculator/)
+
+- **Backend Express CRUD app**
+  Technologies Used: NodeJS, ExpressJS, Bootstrap
+    [Visite GitHub Repo](https://github.com/Mozahedul/express-crud-app)
+    [Visit Live Website](https://express-crud-app-three.vercel.app/)
+
+- **HTML Email Templates**
+  Languages Used: NodeJS, ExpressJS, Bootstrap
+    [Visit GitHub Repos](https://github.com/Mozahedul/express-crud-app)
+    [Visit Live Website](https://portfolio-mozahedul.vercel.app/pages/archive)
   
 Certifications:
 - [Certification Name] - [Issuing Organization] - [Year of Completion]
@@ -70,6 +76,6 @@ Languages:
 
 
 <!---
-Mozahedul/Mozahedul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mozahedul/Mozahedul is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
