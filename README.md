@@ -45,43 +45,43 @@ I’m committed to delivering outstanding web solutions for various industries, 
 ## 🌐 Projects
 - **Todo list app** - A complete todo list app
   Technologies Used: React, Tailwind CSS, Vite.<br>
-    <a href="https://github.com/Mozahedul/to-do-app-frontendmentor" target="_blank">Visit GitHub</a><br>
-    <a href="https://to-do-app-frontendmentor.vercel.app/" target="_blank">Visit Live Website</a> <br>
+    🦯[Visit GitHub Repo](https://github.com/Mozahedul/to-do-app-frontendmentor)
+    🦯[Visit Live Website](https://to-do-app-frontendmentor.vercel.app/) <br>
 
 - **eCommerce website** - Payment gateway, authentication, authorization, all features of an e-commerce website.
   Technologies Used: MERN stack, Next.js, and RESTful API integration <br>
-    <a href="https://github.com/Mozahedul/eshop" target="_blank">Visit GitHub Repo</a><br>
-    <a href="https://eshop-tawny-seven.vercel.app/" target="_blank">Visit Live Website</a><br>
+    🦯[Visit GitHub Repo](https://github.com/Mozahedul/eshop)
+    🦯[Visit Live Website](https://eshop-tawny-seven.vercel.app/)<br>
 
 - **Hospital Management System** - fully responsive front-end website
   Technologies Used: HTML, CSS, JavaScript <br>
-    🦯<a href="https://github.com/Mozahedul/hospital-website" target="_blank">Visit GitHub Repo</a>
-    🦯<a href="https://mozahedul.github.io/hospital-website/" target="_blank">Visit Live Website</a><br>
+    🦯[Visit GitHub Repo](https://github.com/Mozahedul/hospital-website)
+    🦯[Visit Live Website](https://mozahedul.github.io/hospital-website/)<br>
 
 - **React CRUD Application** - Completely responsive React website
   Technologies Used: React, Bootstrap <br>
-    🦯<a href="https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite" target="_blank">Visit GitHub Repo</a>
-    🦯<a href="https://react-crud-mozahedul.netlify.app/" target="_blank">Visit Live Website</a><br>
+    🦯[Visit GitHub Repo](https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite)
+    🦯[Visit Live Website](https://react-crud-mozahedul.netlify.app/)<br>
 
 - **Tech Company Website** - 100% responsive website
   Technologies Used: HTML5, CSS33, JavaScript <br>
-    🦯<a href="https://github.com/Mozahedul/tech-company" target="_blank">Visit GitHub Repo</a>
-    🦯<a href="https://mozahedul.netlify.app/" target="_blank">Visit Live Website</a><br>
+    🦯[Visit GitHub Repo](https://github.com/Mozahedul/tech-company)
+    🦯[Visit Live Website](https://mozahedul.netlify.app/)<br>
 
 - **Age Calculator** - Calculate your age by inserting your birth date
   Technologies Used: HTML5, CSS33, JavaScript <br>
-    🦯<a href="https://github.com/Mozahedul/age-calculator" target="_blank">Visit GitHub Repo</a>
-    🦯<a href="https://mozahedul.github.io/age-calculator/" target="_blank">Visit Live Website</a><br>
+    🦯[Visit GitHub Repo](https://github.com/Mozahedul/age-calculator)
+    🦯[Visit Live Website](https://mozahedul.github.io/age-calculator/)<br>
 
 - **Backend Express CRUD app**
   Technologies Used: NodeJS, ExpressJS, Bootstrap <br>
-    🦯<a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a>
-    🦯<a href="https://express-crud-app-three.vercel.app/" target="_blank">Visit Live Website</a><br>
+    🦯[Visit GitHub Repo](https://github.com/Mozahedul/express-crud-app)
+    🦯[Visit Live Website](https://express-crud-app-three.vercel.app/)<br>
 
 - **HTML Email Templates**
   Languages Used: NodeJS, ExpressJS, Bootstrap <br>
-    🦯<a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a>
-    🦯<a href="https://portfolio-mozahedul.vercel.app/pages/archive" target="_blank">Visit Live Website</a><br>
+    🦯[Visit GitHub Repo](https://github.com/Mozahedul/express-crud-app)
+    🦯[Visit Live Website](https://portfolio-mozahedul.vercel.app/pages/archive)<br>
 
 ## 📫 Connect with Me
 I’m always open to new opportunities and collaborations. Feel free to reach out!
