@@ -1,11 +1,11 @@
 # Md Mozahedul Islam
 Contact Information: +8801738648749, mozahed001@gmail.com <br/>
-[Portfolio Website](https://portfolio-mozahedul.vercel.app/)
-[Programming Blog](https://procodelearn.blogspot.com/)
-[Linkedin Profile](https://www.linkedin.com/in/mozahedul27/)
+<a href="https://portfolio-mozahedul.vercel.app/" target="_blank">Portfolio Website</a><br>
+<a href="https://procodelearn.blogspot.com/" target="_blank">Programming Blog</a><br>
+<a href="https://www.linkedin.com/in/mozahedul27/" target="_blank">Linkedin Profile</a>
 
 ## Summary:
-A highly skilled MERN Stack Developer with a proven track record in building dynamic and responsive web applications. My expertise spans both front-end and back-end technologies, allowing me to create engaging user experiences. I thrive in collaborative environments, consistently delivering top-notch code on time while meeting project milestones.
+A highly skilled MERN Stack Developer with a proven track record in building dynamic and responsive web applications. My expertise spans front-end and back-end technologies, allowing me to create engaging user experiences. I thrive in collaborative environments, consistently delivering top-notch code on time while meeting project milestones.
 
 ### Skills:
 - Front-End: HTML5, CSS3, Tailwind CSS, Material UI, React Bootstrap, React, Redux, JavaScript
@@ -31,42 +31,43 @@ A highly skilled MERN Stack Developer with a proven track record in building dyn
 ### Projects
 - **Todo list app** - A complete todo list app
   Technologies Used: React, Tailwind CSS, Vite.
-    [Visit GitHub](https://github.com/Mozahedul/to-do-app-frontendmentor)
-    [Visit Live Website](https://to-do-app-frontendmentor.vercel.app/)
+    <a href="https://github.com/Mozahedul/to-do-app-frontendmentor" target="_blank">Visit GitHub</a><br>
+    <a href="https://to-do-app-frontendmentor.vercel.app/" target="_blank">Visit Live Website</a>
+
 - **eCommerce website** - Payment gateway, authentication, authorization, all features of an e-commerce website.
   Technologies Used: MERN stack, Next.js, and RESTful API integration <br/>
-    [Visit GitHub Repo](https://github.com/Mozahedul/eshop)
-    [Visit Live Website](https://eshop-tawny-seven.vercel.app/)
+    <a href="https://github.com/Mozahedul/eshop" target="_blank">Visit GitHub Repo</a><br>
+    <a href="https://eshop-tawny-seven.vercel.app/" target="_blank">Visit Live Website</a>
 
 - **Hospital Management System** - fully responsive front-end website
   Technologies Used: HTML, CSS, JavaScript 
-    [Visit GitHub Repo](https://github.com/Mozahedul/hospital-website)
-    [Visit Live Website](https://mozahedul.github.io/hospital-website/)
+    <a href="https://github.com/Mozahedul/hospital-website" target="_blank">Visit GitHub Repo</a><br>
+    <a href="https://mozahedul.github.io/hospital-website/" target="_blank">Visit Live Website</a>
 
 - **React CRUD Application** - Completely responsive React website
   Technologies Used: React, Bootstrap
-    [Visit GitHub Repo](https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite)
-    [Visit Live Website](https://react-crud-mozahedul.netlify.app/)
+    <a href="https://github.com/Mozahedul/ecommerce-nodejs-mysql-vite" target="_blank">Visit GitHub Repo</a><br>
+    <a href="https://react-crud-mozahedul.netlify.app/" target="_blank">Visit Live Website</a>
 
 - **Tech Company Website** - 100% responsive website
   Technologies Used: HTML5, CSS33, JavaScript
-    [Visite GitHub Repo](https://github.com/Mozahedul/tech-company)
-    [Visit Live Website](https://mozahedul.netlify.app/)
+    <a href="https://github.com/Mozahedul/tech-company" target="_blank">Visit GitHub Repo</a><br>
+    <a href="https://mozahedul.netlify.app/" target="_blank">Visit Live Website</a>
 
 - **Age Calculator** - Calculate your age by inserting your birth date
   Technologies Used: HTML5, CSS33, JavaScript
-    [Visite GitHub Repo](https://github.com/Mozahedul/age-calculator)
-    [Visit Live Website](https://mozahedul.github.io/age-calculator/)
+    <a href="https://github.com/Mozahedul/age-calculator" target="_blank">Visit GitHub Repo</a><br>
+    <a href="https://mozahedul.github.io/age-calculator/" target="_blank">Visit Live Website</a>
 
 - **Backend Express CRUD app**
   Technologies Used: NodeJS, ExpressJS, Bootstrap
-    [Visite GitHub Repo](https://github.com/Mozahedul/express-crud-app)
-    [Visit Live Website](https://express-crud-app-three.vercel.app/)
+    <a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a><br>
+    <a href="https://express-crud-app-three.vercel.app/" target="_blank">Visit Live Website</a>
 
 - **HTML Email Templates**
   Languages Used: NodeJS, ExpressJS, Bootstrap
-    [Visit GitHub Repos](https://github.com/Mozahedul/express-crud-app)
-    [Visit Live Website](https://portfolio-mozahedul.vercel.app/pages/archive)
+    <a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a><br>
+    <a href="https://portfolio-mozahedul.vercel.app/pages/archive" target="_blank">Visit Live Website</a>
   
 Certifications:
 - [Certification Name] - [Issuing Organization] - [Year of Completion]
