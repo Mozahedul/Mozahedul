@@ -1,12 +1,7 @@
 # Hi there, I'm Mozahedul 👋
-**Contact Information:** 
-<a href="tel:+8801738648749">Call Us at +880 (173) 8648-749</a>, 
-<a href="mailto:mozahed001@gmail.com" target="_blank">Email Me</a><br/>
-
 **Portfolio Website Links:** <br>
-<a href="https://portfolio-mozahedul.vercel.app/" target="_blank">Portfolio Website</a><br>
-<a href="https://procodelearn.blogspot.com/" target="_blank">Programming Blog</a><br>
-<a href="https://www.linkedin.com/in/mozahedul27/" target="_blank">Linkedin Profile</a><br>
+    [Portfolio Website](https://portfolio-mozahedul.vercel.app/)<br>
+    [Programming Blog](https://procodelearn.blogspot.com/)<br>
 
 ## 🚀 About Me
 I’m committed to delivering outstanding web solutions for various industries, from startups to established businesses. With a strong foundation in both front-end and back-end technologies, I love transforming ideas into intuitive, engaging, and effective digital experiences.
@@ -34,9 +29,7 @@ I’m committed to delivering outstanding web solutions for various industries, 
 **Deployment**  
 ![Git](https://img.shields.io/badge/-Vercel-F05032?logo=vercel&logoColor=fff) ![Netlify](https://img.shields.io/badge/-Netlify-4479A1?logo=netlify&logoColor=fff) ![Heroku](https://img.shields.io/badge/-Heroku-47A248?logo=heroku&logoColor=fff)
 
-
-
-### Skills:
+### 🌟 Skills:
 - Front-End: HTML5, CSS3, Tailwind CSS, Material UI, React Bootstrap, React, Redux, JavaScript
 - Back-End: Node.js, Express.js, MongoDB, RESTful APIs
 - Database: MongoDB, MySQL
@@ -47,7 +40,7 @@ I’m committed to delivering outstanding web solutions for various industries, 
 - Testing: Jest
 - Problem-Solving: Debugging, troubleshooting
 
-### Experience
+### 🌟 Experience
 **Ultimate Technology - Dhaka, Bangladesh**
 **MERN Stack Developer - October 2017 to 2021**
 - Developed and maintained web applications using the MERN stack, ensuring responsive and user-friendly interfaces.
@@ -98,21 +91,22 @@ I’m committed to delivering outstanding web solutions for various industries, 
     <a href="https://github.com/Mozahedul/express-crud-app" target="_blank">Visit GitHub Repo</a><br>
     <a href="https://portfolio-mozahedul.vercel.app/pages/archive" target="_blank">Visit Live Website</a><br>
 
+## 📫 Connect with Me
+I’m always open to new opportunities and collaborations. Feel free to reach out!
+
+- **LinkedIn**: [linkedin.com/in/mozahedul27](https://www.linkedin.com/in/mozahedul27/)
+- **Fiverr**: [fiverr.com/mozahedpro](https://www.fiverr.com/mozahedpro)
+- **Upwork**: [upwork.com/freelancers/~015a5d106c74f13430](https://www.upwork.com/freelancers/~015a5d106c74f13430)
+- **Email**: [mozahed001@gmail.com](mailto:mozahed001@gmail.com)
+
+---
+
 ## 📈 GitHub Stats
 ![Mozahedul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mozahedul&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozahedul&layout=compact&theme=radical)
 
-## 📫 Connect with Me
-I’m always open to new opportunities and collaborations. Feel free to reach out!
-
-- **LinkedIn**: [linkedin.com/in/mozahedul](https://www.linkedin.com/in/mozahedul/)
-- **Fiverr**: [fiverr.com/Mozahedpro](https://www.fiverr.com/mozahedpro)
-- **Email**: [mozahedul@example.com](mailto:mozahedul@example.com)
-
----
-
 ## 💡 Fun Fact
-When not coding, I enjoy exploring new design trends, working on freelance projects with my team, and staying up-to-date with the latest tech. I'm passionate about creating intuitive, enjoyable user experiences that make a lasting impact!
+When I'm not coding, I enjoy exploring new design trends, working on freelance projects with my team, and staying up-to-date with the latest in tech. I'm passionate about creating intuitive, enjoyable user experiences that make a lasting impact!
 
 ---
 
@@ -120,7 +114,7 @@ Thank you for visiting my GitHub profile! Feel free to connect or reach out if y
 
   
 Certifications:
-- [Certification Name] - [Issuing Organization] - [Year of Completion]
+- This repository is licensed under the MIT license.
 
 Languages:
 - English (Fluent)
@@ -130,3 +124,4 @@ Languages:
 Mozahedul/Mozahedul is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
