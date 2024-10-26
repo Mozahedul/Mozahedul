@@ -98,7 +98,7 @@ I’m always open to new opportunities and collaborations. Feel free to reach ou
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozahedul&layout=compact&theme=radical)
 
 ## 💡 Fun Fact
-When I'm not coding, I enjoy exploring new design trends, working on freelance projects with my team, and staying up-to-date with the latest in tech. I'm passionate about creating intuitive, enjoyable user experiences that make a lasting impact!
+When not coding, I enjoy exploring new design trends, collaborating with my team on freelance projects, and staying current with the latest technology. I am passionate about creating intuitive and enjoyable user experiences that leave a lasting impact!
 
 ---
 
