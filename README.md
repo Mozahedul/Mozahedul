@@ -1,5 +1,9 @@
 # Md Mozahedul Islam
-Contact Information: <a href="tel:+1234567890">Call Us at +880 (173) 8648-749</a>, <a href="mailto:mozahed001@gmail.com" target="_blank">Email Me</a><br/>
+Contact Information: 
+<!-- For a clickable phone link in your README.md -->
+<a href="tel:+8801738648749">Call Us at +880 (173) 8648-749</a>, 
+<a href="mailto:mozahed001@gmail.com" target="_blank">Email Me</a><br/>
+
 <a href="https://portfolio-mozahedul.vercel.app/" target="_blank">Portfolio Website</a><br>
 <a href="https://procodelearn.blogspot.com/" target="_blank">Programming Blog</a><br>
 <a href="https://www.linkedin.com/in/mozahedul27/" target="_blank">Linkedin Profile</a><br>
