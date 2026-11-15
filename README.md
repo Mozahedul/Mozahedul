@@ -27,7 +27,7 @@ I’m committed to delivering outstanding web solutions for various industries, 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 
 **Deployment**  
-![Git](https://img.shields.io/badge/-Vercel-F05032?logo=vercel&logoColor=fff) ![Netlify](https://img.shields.io/badge/-Netlify-4479A1?logo=netlify&logoColor=fff) ![Heroku](https://img.shields.io/badge/-Heroku-47A248?logo=heroku&logoColor=fff) ![Hostinger](https://upload.wikimedia.org/wikipedia/commons/8/82/Hostinger_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
+![Git](https://img.shields.io/badge/-Vercel-F05032?logo=vercel&logoColor=fff) ![Netlify](https://img.shields.io/badge/-Netlify-4479A1?logo=netlify&logoColor=fff) ![Heroku](https://img.shields.io/badge/-Heroku-47A248?logo=heroku&logoColor=fff) ![Hostinger](https://img.shields.io/badge/-Hostinger-000080?logo=hostinger&logoColor=fff)
 
 **Test**  
 ![Jest](https://img.shields.io/badge/-Jest-F05032?logo=jest&logoColor=fff)
