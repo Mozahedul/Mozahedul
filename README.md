@@ -23,8 +23,8 @@ I’m committed to delivering outstanding web solutions for various industries, 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
-**CMS (Content Management System)**
-![WordPress](https://img.shields.io/badge/-Wordpress-4169E1?logo=wordpress&logoColor=fff) ![WooCommerce](https://img.shields.io/badge/-WooCommerce-4169E1?logo=woocommerce&logoColor=fff)
+**CMS (Content Management System)** 
+![WordPress](https://img.shields.io/badge/-Wordpress-4169E1?logo=wordpress&logoColor=fff) ![WooCommerce](https://img.shields.io/badge/-WooCommerce-720EEC?logo=woocommerce&logoColor=fff)
 
 **Version Control & Tools**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
