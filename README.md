@@ -4,7 +4,7 @@
     [Programming Blog](https://procodelearn.blogspot.com/)<br>
 
 ## 🚀 About Me
-I’m committed to delivering outstanding web solutions for various industries, from startups to established businesses. With a strong foundation in both front-end and back-end technologies, I love transforming ideas into intuitive, engaging, and effective digital experiences.
+I’m committed to delivering outstanding web solutions for startups and established businesses. With a strong foundation in both front-end and back-end technologies, I love transforming ideas into intuitive, engaging, and effective digital experiences.
 - 🔭 I’m working on my portfolio and client projects with my development team.
 - 🌱 I’m continuously expanding my expertise in web development, especially with the MERN stack and modern web design frameworks.
 - 👯 I’m open to collaborating on innovative, impactful projects that make a difference.
@@ -44,6 +44,9 @@ I’m committed to delivering outstanding web solutions for various industries, 
 - Utilized Redux for state management, improving application performance and maintainability.
 - Integrated third-party libraries and APIs to extend application functionality and enhance user interactions.
 - Conducted unit testing using Jest, reducing bugs and improving code quality.
+
+## 🛒 Live E-Commerce Website
+[Visit Goni Store](https://gonistore.com)
 
 ## 🌐 Projects
 - **Todo list app** - A complete todo list app
