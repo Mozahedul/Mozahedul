@@ -47,6 +47,7 @@ I’m committed to delivering outstanding web solutions for startups and establi
 
 ## 🛒 Live E-Commerce Website
 [Visit Goni Store](https://gonistore.com)
+- A fully functional e-commerce website featuring product listings, product details, shopping cart, and a streamlined online shopping experience.
 
 ## 🌐 Projects
 - **Todo list app** - A complete todo list app
